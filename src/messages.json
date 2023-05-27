@@ -1,0 +1,56 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "sender": "John",
+            "message": [
+                {
+                    "sender": "John",
+                    "message": "Just working on some projects. How about you?",
+                    "timestamp": "10:00 AM"
+                },
+                {
+                    "sender": "You",
+                    "message": "Not bad, thanks for asking.",
+                    "timestamp": "10:00 AM"
+
+                }
+            ]
+            
+        },
+        {
+            "id": 2,
+            "sender": "Wills",
+            "message":  [{
+                    "sender": "Wills",
+                    "message": "Just working on some projects. How about you?",
+                    "timestamp": "10:00 AM"
+                },
+                {
+                    "sender": "You",
+                    "message": "Not bad, thanks for asking.",
+                    "timestamp": "10:00 AM"
+
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "sender": "Sarah",
+            "message": [{
+                "sender": "Sarah",
+                "text": "Just working on some projects. How about you?",
+                "timestamp": "10:00 AM"
+            },
+            {
+                "sender": "You",
+                "text": "Same here. I have a lot of work to do.",
+                "timestamp": "10:00 AM"
+
+            }
+        ]
+           
+        }
+    ]
+}
+    
